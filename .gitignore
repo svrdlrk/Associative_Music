@@ -1,0 +1,15 @@
+# Окружение и IDE
+.idea/
+.venv/
+#Кэш
+__pycache__/
+#Конфиденциальные файлы
+.env
+#БД
+bd_test/
+#Логи
+logs/
+*.log
+# alembic
+alembic/versions/*.pyc
+alembic/versions/__pycache__/
